@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
+    <Metadata>
+        <Identity Id="VSLiquidSyntax.d8f3b12e-cfec-4190-9278-945427db0e3b" Version="0.1" Language="en-US" Publisher="Igor Fleyshman" />
+        <DisplayName>Liquid Syntax Highlighting for Visual Studio</DisplayName>
+        <Description xml:space="preserve">Empty VSIX Project.</Description>
+        <MoreInfo>https://github.com/ifle/VSLiquidSyntax</MoreInfo>
+        <Icon>liquid-language_icon.jpg</Icon>
+        <PreviewImage>liquid-language_preview.jpg</PreviewImage>
+        <Tags>Visual Studio,Visual Studio 2017, Liquid, Language, Syntax</Tags>
+    </Metadata>
+    <Installation>
+        <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[15.0, 16.0)" />
+    </Installation>
+    <Dependencies>
+        <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" d:Source="Manual" Version="[4.5,)" />
+    </Dependencies>
+    <Prerequisites>
+        <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[15.0,16.0)" DisplayName="Visual Studio core editor" />
+    </Prerequisites>
+</PackageManifest>
