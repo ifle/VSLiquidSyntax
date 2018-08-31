@@ -1,2 +1,2 @@
-# VSLiquidSyntax
-Liquid Syntax Highlighting for Visual Studio
+Liquid Syntax Highlighting for Visual Studio.
+The .tmLanguage file is from https://github.com/lucidnz/liquid.tmbundle
