@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="VSLiquidSyntax.d8f3b12e-cfec-4190-9278-945427db0e3b" Version="0.1" Language="en-US" Publisher="Igor Fleyshman" />
+        <Identity Id="VSLiquidSyntax.d8f3b12e-cfec-4190-9278-945427db0e3b" Version="0.2" Language="en-US" Publisher="ifle" />
         <DisplayName>Liquid Syntax Highlighting for Visual Studio</DisplayName>
-        <Description xml:space="preserve">Empty VSIX Project.</Description>
+        <Description xml:space="preserve">Support for the Liquid programming language in Visual Studio.</Description>
         <MoreInfo>https://github.com/ifle/VSLiquidSyntax</MoreInfo>
         <Icon>liquid-language_icon.jpg</Icon>
         <PreviewImage>liquid-language_preview.jpg</PreviewImage>
